@@ -1,6 +1,28 @@
 * {
-    background-color: aqua;
-    font-size: 24px;
+    background-color: black;
     text-align: center;
     color: white;
+}
+
+h1 {
+    font-size: 32px;
+    color: red;
+
+}
+
+h3 {
+    font-size: 24px;
+    color: blue;
+}
+
+p {
+    font-size: 14px;
+}
+
+.list {
+    font-size: 12px;
+    list-style-position: inside;
+}
+.list.two {
+    font-size: 24px;
 }
